@@ -119,5 +119,11 @@ style= "padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=Claudioxd2&show_icons=true&theme=tokyonight&inclued_all_commits=true)"
 />
 
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://github-readme-stats.vercel.app/api/pin/?username=Claudioxd2&repo=Portf-lio.py)](https://github.com/Claudioxd2/github-readme-stats"
+/>
 
-</p>
+
