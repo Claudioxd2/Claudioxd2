@@ -8,15 +8,18 @@ Sou apaixonado por tecnologia desde os 16 anos e estou sempre em busca de novos 
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias e Ferramentas
 
 <p align="left">
+
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
 </p>
 
 ---
@@ -49,81 +52,24 @@ Sou apaixonado por tecnologia desde os 16 anos e estou sempre em busca de novos 
   </a>
 </p>
 
- ## 🤖 Linguagens e Tecnologias
+---
 
-   <img 
-   align="left"
-   alt="java"
-   Title="java"
-   width="40"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-         
-         
-  <img
-  align="left"
-   alt="javascript"
-   Title="javascript"
-   width="40" 
-   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  
-  
-   <img
-   align="left"
-   alt="HTML"
-   Title="HTML"
-   width="40" 
-   style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          
-  
-  <img
-  align="left"
-   alt="PYTHON"
-   Title="PYTHON"
-   width="40"
-   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-          
-  <img 
-  align="left"
-   alt="css"
-   Title="css"
-   width="40"  
-   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-          
-          
-  <img
-  align="left"
-   alt="react"
-   Title="react"
-   width="40"  
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-          
-  <br/>
- <br/>
-
-## Estatísticas 📊
-
+## 📊 Estatísticas
 
 <p>
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-style= "padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=Claudioxd2&show_icons=true&theme=tokyonight&inclued_all_commits=true)"
-/>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Claudioxd2&show_icons=true&theme=tokyonight&include_all_commits=true"
+  />
 
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api/pin/?username=Claudioxd2&repo=Portf-lio.py)](https://github.com/Claudioxd2/github-readme-stats"
-/>
-
-
+  <img
+    align="left"
+    alt="Top Langs"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioxd2&layout=compact&theme=tokyonight"
+  />
+</p>
